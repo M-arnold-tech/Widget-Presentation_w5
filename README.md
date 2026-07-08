@@ -5,7 +5,7 @@ My widget is tabBar Widget
 ## Getting Started
 
 1, Clone my repo usig this command:
-   run "git clone "
+   run "git clone https://github.com/M-arnold-tech/Widget-Presentation_w5.git"
 
 2, run : flutter run    
 
